@@ -1,7 +1,6 @@
-# CSE 3901 Project4-Group3
-## Faculty Page Redesign
+# Faculty Page Redesign
 
-In this project we decide to redesign Dr. Radu Teodorescu's Website.
+In this project, Dr. Radu Teodorescu's website is redesigned.
 The original website link can be found here: https://web.cse.ohio-state.edu/~teodorescu.1/
 
 1. Before running the program, please make sure appropriate bundles are installed:
