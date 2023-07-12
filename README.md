@@ -1,5 +1,5 @@
 # Faculty Page Redesign
-
+## Using Ruby on Rails
 In this project, Dr. Radu Teodorescu's website is redesigned.
 The original website link can be found here: https://web.cse.ohio-state.edu/~teodorescu.1/
 
